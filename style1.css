@@ -1,0 +1,276 @@
+header{
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 72px;
+    width: auto;
+    max-width: 100%;
+    display: block;
+    top: 0;
+    color: black;
+    background-color: white;
+    font-size: 16px;
+    font-weight: 300;
+    box-sizing: border-box;
+}
+nav{
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 72px;
+    width: 1200px;
+    margin: 0 170px 0 170px;
+    display: flex;
+    /* top: 0; */
+    color: black;
+    background-color: white;
+    font-size: 16px;
+    font-weight: 300;
+    box-sizing: border-box;
+    position: relative;
+    text-decoration: none solid rgb(0, 0, 0);
+    flex-wrap: wrap;
+    padding-top: 1.6rem;
+    padding-bottom: 1.6rem;
+    position: sticky;
+    
+
+}
+.Zomato{
+    height: 27px;
+    width: 127px;
+    max-width: 140px;
+    background: white;
+    font-size: 25px;
+    color: black;
+    display: block;
+    
+
+
+}
+
+.user{
+    width: 150px;
+    height: 27px;
+    border-radius: 5px;
+    font-size: 30px;
+    margin: 0px 5px 0 5px;
+   
+
+}
+/* div{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-decoration: none solid rgb(0, 0, 0);
+    text-align: left;
+    word-spacing: 0px;
+    background-color: white;
+    background-position: 0% 0%;
+    color: black;
+    height: 52px;
+    width: 232px;
+    padding: 0 10px 0 10px;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: flex;
+} */
+input{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    height: 21px;
+    width: 166px;
+    margin: 5px 5px 5px -20px;
+    padding: 1px 2px 1px 2px;
+    display: block;
+    border-radius:10px;
+    border: 1px solid rgb(255, 255, 255);
+
+
+}
+.navigation{
+    padding: 17px 0px;
+    /* display: inline; */
+    padding-top: 1.6rem;
+    padding-bottom: 1.6rem;
+    background-color: white;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+
+.search{
+    width: 230px;
+    height: 40px;
+    border-radius: 10px;
+    position: relative;
+    top: -0px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    border: 0.5px solid gray;
+}
+.navigation{
+    height: 25px;
+    width: 975px;
+    padding: 17px 0 17px 0;
+    /* min-height: auto;
+    min-width: auto;
+    max-width: 100%; */
+    display: inline;
+    border: 1px solid #fff;
+    list-style-type: none;
+    list-style-position: outside;
+    position: relative;
+    top: -20px;
+    /* margin-top: 0; */
+    margin: 0 16px 0 16px;
+
+
+
+}
+.down-triangle{
+    margin: 10px 0px 10px -25px;
+}
+.location{
+    margin: 5px 20px 5px 5px;
+   
+    
+}
+.user-profile{
+    width: 120px;
+    height: 50px;
+    margin: -50px 20px 20px 800px;
+    display: list-item;
+    /* position: relative; */
+
+   
+    
+}
+.user-profile img{ 
+    width: 40%;
+    border-radius: 100px;
+    margin:auto;
+}
+.Sunny{
+    margin: -40px 50px 50px 50px;
+    display: block;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 500;
+}
+/* svg{
+    color: red;
+    margin-top: 5px;
+}
+.bi bi-caret-down-fill{
+    margin: 10px 20px 30px 40px;
+    bottom: 0;
+  
+
+} */
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.card{
+    border: 1px solid lightgray;
+    padding: 10px;
+    width: 270px;
+    border-radius: 14px;
+}
+.flexbox{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:20px;
+}
+.card-img{
+    width: 100%;
+    border-radius: 14px;
+}
+.card-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.item-flex{
+    width: 1000px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.food-item{
+text-align: center;
+}
+.food-item img{
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+}
+.header{
+    width: 1000px;
+    margin: 10px auto;
+}
+.container{
+    width: 1000px;
+    margin: 50px auto;
+}
+.food-card{
+    width: 320px;
+    padding: 10px;
+    border-radius: 16px;
+    border: 1px solid white;
+}
+.food-card-img{
+    height: 240px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 16px;
+}
+.food-card-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.sub-heading{
+    margin-top: 8px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.small{
+    margin-top: 6px;
+    font-size: 13px;
+    color: gray;
+}
+.ratings{
+    background-color: green;
+    color: white;
+    font-size: 12px;
+    display: inline;
+    padding: 3px 6px;
+    border-radius: 6px;
+}
+.safety{
+    border-top:1px solid lightgray;
+    display: flex;
+    align-items: center;
+    gap:10px
+
+}
+.safety img{
+    height: 20px;
+}
+.food-card:hover{
+    border: 1px solid lightgray;
+}
+.food-contianer{
+    display: flex;
+    justify-content: center;
+    gap:12px;
+}
