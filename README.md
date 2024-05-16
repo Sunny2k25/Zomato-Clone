@@ -21,7 +21,7 @@ This project is a clone of the user interface (UI) of the popular food delivery 
 - Responsive design that works well on desktop and mobile devices.
 - Header with navigation and search functionality.
 - Display of food categories with images.
-- Restaurant cards with name, cuisine types, ratings, and safety information.
+- Restaurant cards with names, cuisine types, ratings, and safety information.
 
 ## Technologies Used
 
@@ -31,6 +31,18 @@ This project is a clone of the user interface (UI) of the popular food delivery 
 ## Installation
 
 To run this project locally, you can clone the repository:
+git clone https://github.com/your-username/zomato-ui-clone.git
+
+
+Then, open the `index.html` file in your web browser.
+
+## Usage
+
+You can use this project as a template for building your own food delivery app UI or as a learning resource to understand HTML and CSS techniques for creating responsive designs.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas or improvements to the project, feel free to open an issue or create a pull request.
 
 
 
