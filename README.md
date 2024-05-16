@@ -4,17 +4,11 @@ This project is a clone of the user interface (UI) of the popular food delivery 
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-
-## Demo
-
-[Link to live demo](#)
 
 ## Features
 
@@ -31,14 +25,14 @@ This project is a clone of the user interface (UI) of the popular food delivery 
 ## Installation
 
 To run this project locally, you can clone the repository:
-git clone https://github.com/your-username/zomato-ui-clone.git
+git clone https://github.com/Sunny2k25/zomato-ui-clone.git
 
 
 Then, open the `index.html` file in your web browser.
 
 ## Usage
 
-You can use this project as a template for building your own food delivery app UI or as a learning resource to understand HTML and CSS techniques for creating responsive designs.
+You can use this project as a template for building your food delivery app UI or as a learning resource to understand HTML and CSS techniques for creating responsive designs.
 
 ## Contributing
 
