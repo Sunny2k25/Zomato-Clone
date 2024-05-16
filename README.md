@@ -39,6 +39,8 @@ You can use this project as a template for building your food delivery app UI or
 Contributions are welcome! If you have any ideas or improvements to the project, feel free to open an issue or create a pull request.
 
 
+## Output
+
 
 ![Screenshot 2024-05-16 at 9 56 58 AM](https://github.com/Sunny2k25/Zomato-Clone/assets/117598761/5eeb077c-db2d-41f8-9a4b-1c72825753a0)
 
